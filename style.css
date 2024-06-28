@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+img{
+    border: 5px solid royalblue;
+    width: 100%;                    /*  In order to fit it fully (100%) into the div */
+    /* height: 416px;
+    width: 226 px; */
+    
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    
+}
